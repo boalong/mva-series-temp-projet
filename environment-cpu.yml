@@ -1,0 +1,19 @@
+name: environment-cpu
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - tensorflow
+      - numpy
+      - pandas
+      - scipy
+      - scikit-learn
+      - matplotlib
+      - statsmodels
+      - matplotlib
+      - tqdm
+      - pyarrow
+      - jupyter
+      - ipykernel
