@@ -1,4 +1,4 @@
-name: environment-cpu
+name: environment-gpu
 channels:
   - defaults
 dependencies:
